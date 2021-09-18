@@ -17,6 +17,6 @@
 
 
 ### 部分可视化处理图片
-![商品评分数量分布](https://github.com/CyclingPeach/OWN---Product_Recommendation_System/blob/master/Pictures/%E5%95%86%E5%93%81%E8%AF%84%E5%88%86%E6%95%B0%E9%87%8F%E5%88%86%E5%B8%83.png)
-![各评分段的评分数量分布](https://github.com/CyclingPeach/OWN---Product_Recommendation_System/blob/master/Pictures/%E5%90%84%E8%AF%84%E5%88%86%E6%AE%B5%E7%9A%84%E8%AF%84%E5%88%86%E6%95%B0%E9%87%8F%E5%88%86%E5%B8%83.png)
+![商品评分数量分布](https://github.com/CyclingPeach/OWN---Product_Recommendation_System/blob/master/Pictures/1.png)
+![各评分段的评分数量分布]https://github.com/CyclingPeach/OWN---Product_Recommendation_System/blob/master/Pictures/2.png)
 
