@@ -17,6 +17,8 @@
 
 
 ### 部分可视化处理图片
+#### 商品评分数量分布:
 ![商品评分数量分布](https://github.com/CyclingPeach/OWN---Product_Recommendation_System/blob/master/Pictures/1.png)
+#### 各评分段的评分数量分布:
 ![各评分段的评分数量分布](https://github.com/CyclingPeach/OWN---Product_Recommendation_System/blob/master/Pictures/2.png)
 
